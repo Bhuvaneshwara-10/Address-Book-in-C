@@ -1,2 +1,38 @@
-# Address-Book-in-C
-A console-based Address Book application developed in C using file handling and data structures. Supports adding, searching, editing, deleting, and displaying contacts with persistent storage. Designed to demonstrate structured programming, modular design, and efficient contact management in C.
+# Address Book in C
+
+A console-based Address Book application developed using the C programming language.  
+This project helps users manage contacts efficiently with file storage support.
+
+---
+
+## Features
+
+- Add new contacts
+- View all contacts
+- Search contacts
+- Edit contact details
+- Delete contacts
+- Store data using file handling
+- Simple menu-driven interface
+
+---
+
+## Technologies Used
+
+- C Programming
+- Structures
+- Functions
+- File Handling
+
+---
+
+## Project Structure
+
+```bash
+AddressBook/
+main.c
+contact.c
+contact.h
+file.c
+file.h
+contacts.txt
