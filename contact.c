@@ -1,9 +1,6 @@
 
 /*
-        Name: Bhuvaneshwaran P
-     Roll no: 25036_092 
-  start date: 4/12/2025
- Finish Date: 31/12/2025
+
  Description: 
             The Address Book Management System project helps store and manage contact details such as 
             name, phone number, and email ID.It supports creating, searching, editing, deleting, and 
